@@ -1,33 +1,24 @@
 ---
 layout: tutorial_page
-permalink: /metabolomics_2019_prework
+permalink: /metabolomics_2020_prework
 title: Metabolomics Pre-work
 header1: Workshop Pages for Students
-header2: Informatics and Statistics for Metabolomics 2019
+header2: Informatics and Statistics for Metabolomics 2020
 image: /site_images/CBW_metabolomics_icon.jpg
-home: https://bioinformaticsdotca.github.io/metabolomics_2019
+home: https://bioinformaticsdotca.github.io/metabolomics_2020
 ---
-
-## Complete these tutorials before the workshop:
-
-1) **R Preparation tutorials**: You are expected to have completed the following tutorials in **R** beforehand. The tutorial should be very accessible even if you have never used **R** before.
-
-* The [CBW R tutorial](http://bioinformatics-ca.github.io/CBW_R_Tutorial/)
-* [Quick and Dirty Guide to **R**](http://ww2.coastal.edu/kingw/statistics/R-tutorials/text/quick&dirty_R.txt)  
-* The [R Tutorial](http://www.cyclismo.org/tutorial/R/) up to and including 5. Basic Plots
-* The [R command cheat sheet](https://github.com/bioinformaticsdotca/bioinformaticsdotca.github.io/blob/master/resources/R_Short-refcard.pdf)
 
 ## Read these articles before coming to the workshop:
   
-* [Accurate, Fully-Automated NMR Spectral Profiling for Metabolomics](https://www.ncbi.nlm.nih.gov/pubmed/26017271)  
-* [HMDB 4.0: the human metabolome database for 2018](https://www.ncbi.nlm.nih.gov/pubmed/29140435)  
-* [Introduction to Cheminformatics](http://onlinelibrary.wiley.com/doi/10.1002/0471250953.bi1401s53/full) 
-* [MetaboAnalyst 4.0: towards more transparent and
-integrative metabolomics analysis](https://drive.google.com/a/bioinformatics.ca/file/d/1B1WDmPI9dx54tOU5wcerKoqDovgp6TQ2/view?usp=sharing)  
-* [MetaboAnalystR 2.0: From Raw Spectra to
-Biological Insights](https://drive.google.com/a/bioinformatics.ca/file/d/1OWLfDGh0Vxtf2l-NKE93pBBuINw8ZlP9/view?usp=sharing)
-* [Using MetaboAnalyst 4.0 for Comprehensive and
-Integrative Metabolomics Data Analysis](https://drive.google.com/a/bioinformatics.ca/file/d/1ciH-x6WSBSlJkl6bAgZylp-Iuy9IFhgR/view?usp=sharing)  
+[HMDB 4.0](https://drive.google.com/open?id=1Jy-6B0UfWdWuK0riyeAg7jhHW1MaPHc5)
+
+[Accurate, Fully-Automated NMR Spectral Profiling for Metabolomics](https://drive.google.com/open?id=1KZzou08brN5wK5kAAD-8clQkKK4ZFRY9)
+
+[MetaboAnalystR 3.0: Toward an Optimized Workflow for Global Metabolomics](https://drive.google.com/open?id=11ICCHv7-kRmzYvPWDyPaFWEFAJb9YA1N)
+
+[MetaboAnalyst 4.0: for Comprehensive and Integrative Metabolomics Data Analysis](https://drive.google.com/open?id=1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ)
+
+[MetaboAnalyst 4.0: towards more transparent and integrative metabolomics analysis](https://drive.google.com/open?id=1v846q9Tn8rb9hkVF07oBtnlsNzSLvbR6)
 
 Please note that these instructions may change prior to the workshop.  
   
