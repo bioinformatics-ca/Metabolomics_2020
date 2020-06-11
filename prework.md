@@ -20,5 +20,5 @@ home: https://bioinformaticsdotca.github.io/metabolomics_2020
 
 [MetaboAnalyst 4.0: towards more transparent and integrative metabolomics analysis](https://drive.google.com/open?id=1v846q9Tn8rb9hkVF07oBtnlsNzSLvbR6)
 
-Please note that these instructions may change prior to the workshop.  
+ 
   
