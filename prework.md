@@ -14,11 +14,6 @@ home: https://bioinformaticsdotca.github.io/metabolomics_2020
 
 [Accurate, Fully-Automated NMR Spectral Profiling for Metabolomics](https://drive.google.com/open?id=1KZzou08brN5wK5kAAD-8clQkKK4ZFRY9)
 
-[MetaboAnalystR 3.0: Toward an Optimized Workflow for Global Metabolomics](https://drive.google.com/open?id=11ICCHv7-kRmzYvPWDyPaFWEFAJb9YA1N)
-
-[MetaboAnalyst 4.0: for Comprehensive and Integrative Metabolomics Data Analysis](https://drive.google.com/open?id=1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ)
+[MetaboAnalystR 3.0: Towards an Optimized Workflow for Global Metabolomics](https://drive.google.com/open?id=11ICCHv7-kRmzYvPWDyPaFWEFAJb9YA1N)
 
 [MetaboAnalyst 4.0: towards more transparent and integrative metabolomics analysis](https://drive.google.com/open?id=1v846q9Tn8rb9hkVF07oBtnlsNzSLvbR6)
-
- 
-  
