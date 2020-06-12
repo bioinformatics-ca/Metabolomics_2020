@@ -1,19 +1,19 @@
 ---
 layout: tutorial_page
-permalink: /metabolomics_2019_mod2lab
-title: Metabolomics 2019
+permalink: /metabolomics_2020_mod2lab
+title: Metabolomics 2020
 header1: Workshop Pages for Students
-header2: Informatics and Statistics for Metabolomics 2019 Module 2 Lab
+header2: Informatics and Statistics for Metabolomics 2020 Module 2 Lab
 image: /site_images/CBW_metabolomics_icon.jpg
-home: https://bioinformaticsdotca.github.io/metabolomics_2019
+home: https://bioinformaticsdotca.github.io/metabolomics_2020
 description: Metabolomics Module 2 Lab
 author: David Wishart and Jeff Xia
-modified: March 16, 2019
+modified: June 12, 2020
 ---
 
 # Module 2 Lab: Metabolite Identification and Annotation
 
-In this lab, you will perform metabolite ID and/or quantification using NMR data and Bayesil; GC-MS data and GC-AutoFit; and LC-MS data and XCMS.
+In this lab, you will perform metabolite ID and/or quantification using NMR data and Bayesil; GC-MS data and GC-AutoFit; and LC-MS data and MetaboAnalyst/R.
 
 ## NMR
 
