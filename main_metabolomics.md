@@ -149,7 +149,7 @@ Download [this file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVa
  
  *<font color="#827e9c">Jeff Xia</font>*  
 
-Using the [lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1ciH-x6WSBSlJkl6bAgZylp-Iuy9IFhgR/view?usp=sharing) follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
+Using the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view) follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
   
  [Full Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)    
   
@@ -179,7 +179,7 @@ Using the [lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1c
   
   [Lecture](https://www.dropbox.com/s/st0cj934b23b2ea/CBW-Metabolomics5.1-2020_final_JX.ppt?dl=0) 
     
-  [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1nmLqmrw4RpkdEOme8k0WzhfJL_wcIsRN/view?usp=sharing)  
+  To understand how to use MetaboAnalyst, please follow the 11 protocols in this [lab practical.](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view)  
   
     
 #### Data Input:
@@ -191,9 +191,9 @@ Critical: Before uploading your data, perform a sanity check:
 * All measurements should be numerical values (empty for missing values); 
 * For details and screenshot instructions, [click here](http://www.metaboanalyst.ca/faces/docs/Format.xhtml)
 
-* [Data 1](https://www.metaboanalyst.ca/resources/data/human_cachexia.csv) Metabolomic concentration table of 77 urine samples from cancer patients and healthy controls.  
-* [Data 2](https://github.com/jsychong/MetaboAnalystR/blob/master/MetaboAnalystR_2_Supplementary_Data/iHMP2_48_metaboanalyst_input.csv) Peak intensity table of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls.
-* [Data 3](https://www.metaboanalyst.ca/resources/data/mummichog_ibd.txt) Peak list of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls.
+* [Data 1](https://www.metaboanalyst.ca/resources/data/human_cachexia.csv) Metabolomic concentration table of 77 urine samples from cancer patients and healthy controls. Can be used for Protocols 1-5.  
+* [Data 2](https://github.com/jsychong/MetaboAnalystR/blob/master/MetaboAnalystR_2_Supplementary_Data/iHMP2_48_metaboanalyst_input.csv) Peak intensity table of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls. Can be used for Protocols 1-3/
+* [Data 3](https://www.metaboanalyst.ca/resources/data/mummichog_ibd.txt) Peak list of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls. Used for Protocol 9.
 
 
   
