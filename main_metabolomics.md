@@ -15,7 +15,7 @@ length: 2 days
 
 [Welcome] to Informatics and Statistics for Metabolomics 2020.  
 
-The course schedule can be found here (comming soon)
+The course schedule can be found [here](https://bioinformaticsdotca.github.io//metabolomics_2020_schedule)
 
 Meet your faculty here (comming soon)
 
