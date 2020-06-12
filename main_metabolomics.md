@@ -17,9 +17,10 @@ length: 2 days
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io//metabolomics_2020_schedule)
 
-Meet your faculty here (comming soon)
+Meet your faculty! 
 
- 
+[Dr. David Wishart](http://www.wishartlab.com/about)  
+[Dr. Jianguo Xia](https://www.xialab.ca/members.xhtml)
 
 ***
 
@@ -35,7 +36,7 @@ It is in your best interest to complete these before the workshop.
 
 # Class Photo
 
-Coming soon  
+Coming soon!  
 
 *** 
 
@@ -49,17 +50,17 @@ Coming soon
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture]()  
+  [Lecture](https://drive.google.com/file/d/1-nQ3XOiYjzgnVE_lYna7PyrT8XFP8tW5/view?usp=sharing)  
   
 ##  Module 2: Metabolite Identification and Annotation 
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture]() 
+  [Lecture](https://drive.google.com/file/d/10deOQapniP4RVWKVbeFFIGMOmI0kT3vP/view?usp=sharing) 
   
-  [Lab practical](https://drive.google.com/open?id=1_hAsK0JpgVGuT90MeV2uDWPsfaYE-tFd)   
+  [Lab practical](https://drive.google.com/file/d/11yYJYGh1R4ti83Tw7vs0Q6zn42mygtD2/view?usp=sharing)   
   
-  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2019_mod2lab)
+  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)
   
  
 1. NMR and <a href="cbw.bayesil.ca">Bayesil</a>.  
@@ -123,7 +124,7 @@ Download [this file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVa
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Lecture]()  
+[Lecture](https://drive.google.com/file/d/1D4aP4ZJtC05X6Bcmim2K9HrEYOnPO4C8/view)  
 
 #### Links:
   
@@ -169,14 +170,14 @@ Using the [lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1c
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  [Lecture]()  
+  [Lecture](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0)  
   
 
 ##  Module 5: MetaboAnalyst 
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  [Lecture]() 
+  [Lecture](https://www.dropbox.com/s/st0cj934b23b2ea/CBW-Metabolomics5.1-2020_final_JX.ppt?dl=0) 
     
   [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1nmLqmrw4RpkdEOme8k0WzhfJL_wcIsRN/view?usp=sharing)  
   
@@ -200,7 +201,7 @@ Critical: Before uploading your data, perform a sanity check:
 
 *<font color="#827e9c">David Wishart</font>*
   
-[Lecture]() 
+[Lecture](https://drive.google.com/file/d/1X_1c77pxAeDBoguV_1qSOx4WBNII5E-y/view) 
   
 ***
 
