@@ -19,4 +19,4 @@ home: https://bioinformaticsdotca.github.io/metabolomics_2020
 |	15:00	|	Module 2 Lab: Compound ID & Quantification (Wishart, Xia, Berjanskii, Chong, Yamamoto)	|	16:30	|	<font color="green">Break</font>|
 |	16:30	|	Break	|	17:00	|	Module 5 Lab: Continued (Xia, Wishart, Berjanskii, Chong, Yamamoto)	|
 |	17:00	|	Module 3 Lecture: Databases for Chemical, Spectral and Biological Data (David Wishart)	|	18:30	|	Module 6: Future of Metabolomics	|
-|	18:30	|	(Optional) Compound ID until 8pm	|	19:00	|	Survey & Closing Remarks	|<font color="green">Break</font> |
+|	18:30	|	(Optional) Spectral Processing & Functional Analysis until 8pm	|	19:00	|	Survey & Closing Remarks	|<font color="green">Break</font> |
