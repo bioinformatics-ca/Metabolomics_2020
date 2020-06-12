@@ -64,7 +64,7 @@ We will be using the [GC-AutoFit website](http://gcms.wishartlab.com/) for analy
 
 ### GC-AutoFit (Automated GC-MS)  
 
-[GC-AutoFit website](http://gcms.wishartlab.com/)t requires 3 spectra (sample, blank, and alkane standard).  It performs auto-alignment, peak ID, peak integration, and concentration calculation.  It accepts NetCDF and mzXML files.  It takes 60 seconds per spectrum with 40-115 compounds ID'd at 96% accuracy.  It is optimized for blood, urine, saliva, and cerbral spinal fluid.  It still requires careful sample preparation and derivatization.
+[GC-AutoFit website](http://gcms.wishartlab.com/) requires 3 spectra (sample, blank, and alkane standard).  It performs auto-alignment, peak ID, peak integration, and concentration calculation.  It accepts NetCDF and mzXML files.  It takes 60 seconds per spectrum with 40-115 compounds ID'd at 96% accuracy.  It is optimized for blood, urine, saliva, and cerbral spinal fluid.  It still requires careful sample preparation and derivatization.
 
 <img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/gc1.png?raw=true" alt="img" width="750" /> 
 
