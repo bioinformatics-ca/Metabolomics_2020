@@ -161,10 +161,9 @@ This dataset was acquired using an UPLC-Q/E-ESI- in negative ionization mode. Th
 <li>[Group 4](https://drive.google.com/open?id=1qkz9ovUoGWkVQ3loLyP8gzqazho1xjox)</li>  
 <li>[Group 5](https://drive.google.com/open?id=1C4jyL8PB3iMZHQnGfQRz8txe5a9cBNM-)</li>  
 <li>[Group 6](https://drive.google.com/open?id=1hI5cwr5HO3ReCDd9ZJYVzE6AUhX7_eNO)</li>  
-<li>[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)</li>  
+<li>[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)</li><br/>  
   
-
-  Following spectra processing, use the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view) and follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
+Following spectra processing, use the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view) and follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
 
 # Day 2 <a id="day2"></a>
 
