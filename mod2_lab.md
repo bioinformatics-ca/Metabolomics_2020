@@ -56,15 +56,15 @@ We will be using [Bayesil](http://cbw.bayesil.ca) for analysis of the NMR data. 
 
 ### Example Data
 
-The sample data is from a study comparing 20 individuals with Eosinophilic Esophagitis (EoE) with 20 healthy controls, ages 3-13.  The sample type is urine with an internal standard control of cholesterol.  The Jul0914 file has 1 Alkane standard, 1 blank sample, and 20 samples. The Jul1114 file also has 1 Alkane standard, 1 blank sample, and 20 samples.
+The sample data is from a study comparing 20 individuals with Eosinophilic Esophagitis (EoE) with 20 healthy controls, ages 3-13.  The sample type is urine with an internal standard control of cholesterol.  The example file contains one Alkane standard file, one blank file, and files for one sample from each group.
 
 ### General Instructions
 
-We will be using the [GC-AutoFit website](http://gcms.wishartlab.com/) for analysis of our data.  The example data can be found [here](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing). Upload the files to GC-AutoFit and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
+We will be using the [GC-AutoFit website](http://cbw_gcautofit.wishartlab.com/) for analysis of our data.  The example data can be found [here](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing). Upload the files to GC-AutoFit and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
 
 ### GC-AutoFit (Automated GC-MS)  
 
-[GC-AutoFit website](http://gcms.wishartlab.com/) requires 3 spectra (sample, blank, and alkane standard).  It performs auto-alignment, peak ID, peak integration, and concentration calculation.  It accepts NetCDF and mzXML files.  It takes 60 seconds per spectrum with 40-115 compounds ID'd at 96% accuracy.  It is optimized for blood, urine, saliva, and cerbral spinal fluid.  It still requires careful sample preparation and derivatization.
+[GC-AutoFit website](http://cbw_gcautofit.wishartlab.com/) requires 3 spectra (sample, blank, and alkane standard).  It performs auto-alignment, peak ID, peak integration, and concentration calculation.  It accepts NetCDF and mzXML files.  It takes 60 seconds per spectrum with 40-115 compounds ID'd at 96% accuracy.  It is optimized for blood, urine, saliva, and cerbral spinal fluid.  It still requires careful sample preparation and derivatization.
 
 <img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/gc1.png?raw=true" alt="img" width="750" /> 
 
