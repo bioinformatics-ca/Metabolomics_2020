@@ -87,15 +87,17 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 [Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)  
 
-*Fast example datasets (mzXML.zip files)*  
+**Fast example datasets (mzXML.zip files)**  
 
 [Trimmed IBD zipped file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)  
 
-*Spectra processing with MetaboAnalyst (result files)*    
+**Spectra processing with MetaboAnalyst (result files)**    
 
-[Peak Table](https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_)
-[Input for MS Peaks to Path](https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw)
-  
+<ul>
+<li>[Peak Table](https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_)</li>
+<li>[Input for MS Peaks to Path](https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw)</li>
+</ul>  
+
 #### Links:
   
  * [MetaboMiner](http://wishart.biology.ualberta.ca/metabominer/) 
@@ -154,13 +156,15 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
   
 *Larger example datasets (mzXML.zip files)* (Optional! Intended only for Monday's evening session)
 
-[Group 1](https://drive.google.com/open?id=1sn4IMZOnhtfr2ve0ZSPgTB7LLQz_hBKL)
-[Group 2](https://drive.google.com/open?id=1B8TGacpxoZWZWl74LhpqY78b9_9aVB9e)
-[Group 3](https://drive.google.com/open?id=1rnOWG8E1fB7K82F9aI3n6jrZPqDxZU5Q)
-[Group 4](https://drive.google.com/open?id=1qkz9ovUoGWkVQ3loLyP8gzqazho1xjox)
-[Group 5](https://drive.google.com/open?id=1C4jyL8PB3iMZHQnGfQRz8txe5a9cBNM-)
-[Group 6](https://drive.google.com/open?id=1hI5cwr5HO3ReCDd9ZJYVzE6AUhX7_eNO)
-[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)
+<ul>
+<li>[Group 1](https://drive.google.com/open?id=1sn4IMZOnhtfr2ve0ZSPgTB7LLQz_hBKL)</li>
+<li>[Group 2](https://drive.google.com/open?id=1B8TGacpxoZWZWl74LhpqY78b9_9aVB9e)</li>
+<li>[Group 3](https://drive.google.com/open?id=1rnOWG8E1fB7K82F9aI3n6jrZPqDxZU5Q)</li>
+<li>[Group 4](https://drive.google.com/open?id=1qkz9ovUoGWkVQ3loLyP8gzqazho1xjox)</li>
+<li>[Group 5](https://drive.google.com/open?id=1C4jyL8PB3iMZHQnGfQRz8txe5a9cBNM-)</li>
+<li>[Group 6](https://drive.google.com/open?id=1hI5cwr5HO3ReCDd9ZJYVzE6AUhX7_eNO)</li>
+<li>[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)</li>
+</ul>  
   
 # Day 2 <a id="day2"></a>
 
