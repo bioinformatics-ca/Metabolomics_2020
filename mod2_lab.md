@@ -130,19 +130,19 @@ This dataset was acquired using UPLC-Q/E-ESI- in negative ionization mode. The 1
 
 *Example mzXML datasets  (mzXML.zip files)*  
 
-[ibd_data_cbw2020.zip](https://drive.google.com/open?id=0B8AGit-0OvvcWWxkS2tZZ283QzQ)   
+[ibd_data_cbw2020.zip](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)
 
 *Spectra Processing with MetaboAnalyst (example result files)*  
 
 [Peak Table](https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_)  
 [Input for MS Peaks to Path](https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw)  
 
-**Do this section only if you are comfortable using R**
+**NOTE: Do this section only if you are comfortable using R**
 
-You will need R with the the various MetaboAnalystR package dependencies installed. You can optionally have ProteoWizard installed if your files are not in mzXML, mzML format. The data files are provided as mzXML converted files.
+You will need to have R, MetaboAnalystR package dependencies, and MetaboAnalystR itself installed. You can optionally have ProteoWizard installed if your files are not in mzXML, mzML format (Windows only). All example data files are provided as mzXML converted files.
 
 ### MetaboAnalystR 
 
-Follow the MetaboAnalystR tutorial [here](https://dev.metaboanalyst.ca/docs/RTutorial.xhtml).
+If you wish to use R instead of the MetaboAnalyst web-service, please follow the MetaboAnalystR tutorial [here](https://dev.metaboanalyst.ca/docs/RTutorial.xhtml).
 
 <img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/xcms6.png?raw=true" alt="img" width="750" /> 
