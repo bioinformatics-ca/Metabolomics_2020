@@ -90,7 +90,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 *Example datasets (mzXML.zip files)*
 
-Download [this file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)  
+Download [this file](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/ibd_data_cbw2020.zip)  
 
 *Spectra processing with MetaboAnalyst (example result files)* 
 
