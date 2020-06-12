@@ -122,7 +122,7 @@ Results are reported as a table (csv format) for each sample and merged concentr
 
 ## LC-MS
 
-<img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/xcms1.png?raw=true" alt="img" width="750" /> 
+<img src="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/Figure1_workflow.jpg" alt="img" width="750" /> 
 
 ### Example Data
 
@@ -144,5 +144,3 @@ You will need to have R, MetaboAnalystR package dependencies, and MetaboAnalystR
 ### MetaboAnalystR 
 
 If you wish to use R instead of the MetaboAnalyst web-service, please follow the MetaboAnalystR tutorial [here](https://dev.metaboanalyst.ca/docs/RTutorial.xhtml).
-
-<img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/xcms6.png?raw=true" alt="img" width="750" /> 
