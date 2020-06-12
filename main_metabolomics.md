@@ -148,8 +148,8 @@ Download this file: [ibd_data_cbw2020.zip](https://github.com/bioinformatics-ca/
 ## (Optional) Lab Practical: Spectral Processing and Functional Analysis with MetaboAnalyst(R)
  
  *<font color="#827e9c">Jeff Xia</font>*  
-
-Using the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view) follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
+ 
+This dataset was acquired using an UPLC-Q/E-ESI- in negative ionization mode. The 10 samples (per group) are a subset of a much larger study from [Lloyd-Price et al.](https://www.nature.com/articles/s41586-019-1237-9), and include fecal samples from patients with Crohn's Disease (CD, 4), healthy controls (4), and two quality controls. The [metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl) contains more sample information. Using the MetaboAnalyst [web service](https://dev.metaboanalyst.ca/) or [MetaboAnalystR](https://dev.metaboanalyst.ca/docs/RTutorial.xhtml), process one of the example datasets below.
   
  [Full Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)    
   
@@ -163,7 +163,8 @@ Using the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzw
 <li>[Group 6](https://drive.google.com/open?id=1hI5cwr5HO3ReCDd9ZJYVzE6AUhX7_eNO)</li>  
 <li>[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)</li>  
   
-  
+Following spectra processing, use the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view) and follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
+
 # Day 2 <a id="day2"></a>
 
 ##  Module 4: Backgrounder in Statistics 
