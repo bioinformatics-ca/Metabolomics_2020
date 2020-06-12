@@ -205,6 +205,6 @@ Critical: Before uploading your data, perform a sanity check:
   
 ***
 
-Thank you for attending the Analysis of Metagenomic Data workshop! Help us make this workshop better by filling out [our survey]()  
+Thank you for attending the Informatics and Statistics for Metabolomics 2020 workshop! Help us make this workshop better by filling out [our survey]()  
 
 ***
