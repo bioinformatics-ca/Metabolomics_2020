@@ -130,7 +130,7 @@ This dataset was acquired using UPLC-Q/E-ESI- in negative ionization mode. The 1
 
 *Example mzXML datasets  (mzXML.zip files)*  
 
-[ibd_data_cbw2020.zip](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)
+[ibd_data_cbw2020.zip](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/ibd_data_cbw2020.zip)
 
 *Spectra Processing with MetaboAnalyst (example result files)*  
 
