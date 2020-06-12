@@ -126,7 +126,7 @@ Results are reported as a table (csv format) for each sample and merged concentr
 
 ### Example Data
 
-This dataset was acquired using UPLC-Q/E-ESI- in negative ionization mode. The 10 samples (per group) are a subset of a larger study from [Lloyd-Price et al.](https://www.nature.com/articles/s41586-019-1237-9), and include fecal samples from people with Crohn's Disease (CD), healthy controls, and two quality controls. The [metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl) has more sample information.
+This dataset was acquired using an UPLC-Q/E-ESI- in negative ionization mode. The 10 samples are a trimmed subset of a larger study from [Lloyd-Price et al.](https://www.nature.com/articles/s41586-019-1237-9), and include fecal samples from people with Crohn's Disease (CD, 4), healthy controls (4), and two quality controls. The [metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl) contains more sample information.
 
 *Example mzXML datasets  (mzXML.zip files)*  
 
