@@ -60,7 +60,7 @@ The sample data is from a study comparing 20 individuals with Eosinophilic Esoph
 
 ### General Instructions
 
-We will be using the [GC-AutoFit website](http://gcms.wishartlab.com/) for analysis of our data.  The data 2 data files can be found [here](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/Example_Jul0914_mzXML.zip) and [here](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/data_sets/Example_Jul1114_mzXML.zip). Upload the files to GC-AutoFit and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
+We will be using the [GC-AutoFit website](http://gcms.wishartlab.com/) for analysis of our data.  The example data can be found [here](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing). Upload the files to GC-AutoFit and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
 
 ### GC-AutoFit (Automated GC-MS)  
 
