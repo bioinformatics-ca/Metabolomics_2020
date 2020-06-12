@@ -71,7 +71,7 @@ Coming soon
   
 #### Data Set and Results Files:
 
-##### NMR:
+##### NMR (Bayesil):
 
 <ul>
 <li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip</a> </li>
@@ -80,16 +80,17 @@ Coming soon
 
 * [NMR simple example file](https://github.com/bioinformaticsdotca/Metabolomics_2019/blob/master/NMR_example.zip)  
 
-##### GC-Autofit:
+##### GCMS (GC-Autofit):
 
 Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing)  
+
 ##### LC-MS:
 
-**Fast example datasets (mzXML.zip files)**  
+*Example datasets (mzXML.zip files)*
 
-[Trimmed IBD zipped file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)  
+Download [this file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)  
 
-**Spectra processing with MetaboAnalyst (result files)**    
+*Spectra processing with MetaboAnalyst (example result files)* 
 
 <ul>
 <li> <a href="https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_">Peak Table</a> </li>
@@ -123,8 +124,6 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 
 [Lecture]()  
 
-[Lab Practical - From Raw Spectra to Biological Insights using MetaboAnalystR 2.0]()
-
 #### Links:
   
  * [HMDB](http://hmdb.ca/) 
@@ -144,7 +143,7 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
  * [Reactome](http://www.reactome.org/) 
  * [BioCyc](http://biocyc.org/) 
 
-## (Optional) From Raw Spectra to Biological Insights
+## (Optional) Lab Practical: Spectral Processing and Functional Analysis with MetaboAnalyst(R)
  
  *<font color="#827e9c">Jeff Xia</font>*  
 
