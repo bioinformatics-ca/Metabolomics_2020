@@ -85,8 +85,6 @@ Coming soon
 Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing)  
 ##### LC-MS:
 
-[Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)  
-
 **Fast example datasets (mzXML.zip files)**  
 
 [Trimmed IBD zipped file](https://drive.google.com/open?id=0B8AGit-0OvvcM3dpTUxXM2lVams)  
@@ -94,8 +92,8 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 **Spectra processing with MetaboAnalyst (result files)**    
 
 <ul>
-<li>[Peak Table](https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_)</li>
-<li>[Input for MS Peaks to Path](https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw)</li>
+<li> <a href="https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_">Peak Table</a> </li>
+<li> <a href="https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw">Input for MS Peaks to Path</a> </li>
 </ul>  
 
 #### Links:
@@ -149,22 +147,21 @@ Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5j
 ## (Optional) From Raw Spectra to Biological Insights
  
  *<font color="#827e9c">Jeff Xia</font>*  
+
+Using the [lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1ciH-x6WSBSlJkl6bAgZylp-Iuy9IFhgR/view?usp=sharing) follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
   
- [Lecture]()  
-  
- [Lab practical](https://drive.google.com/a/bioinformatics.ca/file/d/1ciH-x6WSBSlJkl6bAgZylp-Iuy9IFhgR/view?usp=sharing)  
+ [Full Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)    
   
 *Larger example datasets (mzXML.zip files)* (Optional! Intended only for Monday's evening session)
 
-<ul>
-<li>[Group 1](https://drive.google.com/open?id=1sn4IMZOnhtfr2ve0ZSPgTB7LLQz_hBKL)</li>
-<li>[Group 2](https://drive.google.com/open?id=1B8TGacpxoZWZWl74LhpqY78b9_9aVB9e)</li>
-<li>[Group 3](https://drive.google.com/open?id=1rnOWG8E1fB7K82F9aI3n6jrZPqDxZU5Q)</li>
-<li>[Group 4](https://drive.google.com/open?id=1qkz9ovUoGWkVQ3loLyP8gzqazho1xjox)</li>
-<li>[Group 5](https://drive.google.com/open?id=1C4jyL8PB3iMZHQnGfQRz8txe5a9cBNM-)</li>
-<li>[Group 6](https://drive.google.com/open?id=1hI5cwr5HO3ReCDd9ZJYVzE6AUhX7_eNO)</li>
-<li>[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)</li>
-</ul>  
+<li>[Group 1](https://drive.google.com/open?id=1sn4IMZOnhtfr2ve0ZSPgTB7LLQz_hBKL)</li>  
+<li>[Group 2](https://drive.google.com/open?id=1B8TGacpxoZWZWl74LhpqY78b9_9aVB9e)</li>  
+<li>[Group 3](https://drive.google.com/open?id=1rnOWG8E1fB7K82F9aI3n6jrZPqDxZU5Q)</li>  
+<li>[Group 4](https://drive.google.com/open?id=1qkz9ovUoGWkVQ3loLyP8gzqazho1xjox)</li>  
+<li>[Group 5](https://drive.google.com/open?id=1C4jyL8PB3iMZHQnGfQRz8txe5a9cBNM-)</li>  
+<li>[Group 6](https://drive.google.com/open?id=1hI5cwr5HO3ReCDd9ZJYVzE6AUhX7_eNO)</li>  
+<li>[Group 7](https://drive.google.com/open?id=1XByBTHS04Ks4K-OvH2F8wj9ZLsYK7rFb)</li>  
+  
   
 # Day 2 <a id="day2"></a>
 
@@ -210,8 +207,3 @@ Critical: Before uploading your data, perform a sanity check:
 Thank you for attending the Analysis of Metagenomic Data workshop! Help us make this workshop better by filling out [our survey]()  
 
 ***
-  
-***
-# Day 2 
-
-
