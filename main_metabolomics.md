@@ -66,7 +66,7 @@ Coming soon
     
 2. GC-MS and <a href="http://gcms.wishartlab.com/">GC-Autofit</a>.  
   
-3. LC-MS and <a href="dev.metaboanalyst.ca">MetaboAnalyst</a>.  .   
+3. LC-MS and <a href="dev.metaboanalyst.ca">MetaboAnalyst</a>. 
   
   
 #### Data Set and Results Files:
@@ -74,17 +74,18 @@ Coming soon
 ##### NMR (Bayesil):
 
 <ul>
-<li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip</a> </li>
-<li> <a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a> </li>
+<li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip</a></li>
+<li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a></li>
+<li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2019/blob/master/NMR_example.zip">NMR simple example file</a></li>
 </ul>
-
-* [NMR simple example file](https://github.com/bioinformaticsdotca/Metabolomics_2019/blob/master/NMR_example.zip)  
 
 ##### GCMS (GC-Autofit):
 
+*Example datasets (mzXML.zip files)*
+
 Download [this file](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing)  
 
-##### LC-MS:
+##### LC-MS (MetaboAnalyst):
 
 *Example datasets (mzXML.zip files)*
 
