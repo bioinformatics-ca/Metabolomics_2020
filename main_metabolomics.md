@@ -65,7 +65,7 @@ Coming soon!
  
 1. NMR and <a href="http://cbw.bayesil.ca/users/login">Bayesil</a>.  
     
-2. GC-MS and <a href="http://gcms.wishartlab.com/">GC-Autofit</a>.  
+2. GC-MS and <a href="http://cbw_gcautofit.wishartlab.com/">GC-Autofit</a>.  
   
 3. LC-MS and <a href="https://dev.metaboanalyst.ca/">MetaboAnalyst</a>. 
   
