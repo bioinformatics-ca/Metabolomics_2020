@@ -75,6 +75,8 @@ Briefly, the lab will go over the following pre-processing workflows:
 
 ##### NMR (Bayesil):
 
+*Example datasets (zipped files)*
+
 <ul>
 <li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip</a></li>
 <li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a></li>
