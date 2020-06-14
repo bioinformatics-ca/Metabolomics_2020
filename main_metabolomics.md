@@ -125,7 +125,7 @@ Download this file: [ibd_data_cbw2020.zip](https://github.com/bioinformatics-ca/
 
 *<font color="#827e9c">David Wishart</font>*  
 
-[Lecture](https://drive.google.com/file/d/1D4aP4ZJtC05X6Bcmim2K9HrEYOnPO4C8/view)  
+Access Module 3's [lecture here.](https://drive.google.com/file/d/1D4aP4ZJtC05X6Bcmim2K9HrEYOnPO4C8/view)  
 
 #### Links:
   
