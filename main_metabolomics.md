@@ -17,10 +17,7 @@ length: 2 days
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io//metabolomics_2020_schedule)
 
-Meet your faculty! 
-
-[Dr. David Wishart](http://www.wishartlab.com/about)  
-[Dr. Jianguo Xia](https://www.xialab.ca/members.xhtml)
+Meet your faculty! (comming soon)
 
 ***
 
