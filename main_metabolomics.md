@@ -63,9 +63,9 @@ Coming soon!
   [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)
   
  
-1. NMR and <a href="http://cbw.bayesil.ca/users/login">Bayesil</a>.  
+1. NMR and <a href="http://bayesil.ca/">Bayesil</a>.  
     
-2. GC-MS and <a href="http://cbw_gcautofit.wishartlab.com/">GC-Autofit</a>.  
+2. GC-MS and <a href="http://gc-autofit.wishartlab.com/">GC-Autofit</a>.  
   
 3. LC-MS and <a href="https://dev.metaboanalyst.ca/">MetaboAnalyst</a>. 
   
