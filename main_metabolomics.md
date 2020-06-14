@@ -50,17 +50,17 @@ Coming soon!
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture](https://drive.google.com/file/d/1-nQ3XOiYjzgnVE_lYna7PyrT8XFP8tW5/view?usp=sharing)  
+  Access Module 1's [lecture here.](https://drive.google.com/file/d/1-nQ3XOiYjzgnVE_lYna7PyrT8XFP8tW5/view?usp=sharing)  
   
 ##  Module 2: Metabolite Identification and Annotation 
 
   *<font color="#827e9c">David Wishart</font>*
   
-  [Lecture](https://drive.google.com/file/d/10deOQapniP4RVWKVbeFFIGMOmI0kT3vP/view?usp=sharing) 
+  Access Module 2's [lecture slides here.](https://drive.google.com/file/d/10deOQapniP4RVWKVbeFFIGMOmI0kT3vP/view?usp=sharing) 
   
-  [Lab practical](https://drive.google.com/file/d/11yYJYGh1R4ti83Tw7vs0Q6zn42mygtD2/view?usp=sharing)   
+  Access Module 2's [lab practical slides here.](https://drive.google.com/file/d/11yYJYGh1R4ti83Tw7vs0Q6zn42mygtD2/view?usp=sharing)   
   
-  [Instructions for lab](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)
+  Follow the [instructions for Module 2's lab here.](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)
   
  
 1. NMR and <a href="http://bayesil.ca/">Bayesil</a>.  
@@ -171,14 +171,14 @@ Following spectra processing, use the [lab practical](https://drive.google.com/f
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  [Lecture](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0)  
+  Access Module 4's [lecture here.](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0)  
   
 
 ##  Module 5: MetaboAnalyst 
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  [Lecture](https://www.dropbox.com/s/st0cj934b23b2ea/CBW-Metabolomics5.1-2020_final_JX.ppt?dl=0) 
+  Access Module 5's [lecture here.](https://www.dropbox.com/s/st0cj934b23b2ea/CBW-Metabolomics5.1-2020_final_JX.ppt?dl=0) 
     
   To understand how to use MetaboAnalyst, please follow the 11 protocols in this [lab practical.](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view)  
   
@@ -202,7 +202,7 @@ Critical: Before uploading your data, perform a sanity check:
 
 *<font color="#827e9c">David Wishart</font>*
   
-[Lecture](https://drive.google.com/file/d/1X_1c77pxAeDBoguV_1qSOx4WBNII5E-y/view) 
+Access Module 6's [lecture here.](https://drive.google.com/file/d/1X_1c77pxAeDBoguV_1qSOx4WBNII5E-y/view) 
   
 ***
 
