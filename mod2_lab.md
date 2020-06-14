@@ -23,11 +23,11 @@ The sample data is from a study comparing healthy controls to endometrial cancer
 
 ### General Instructions
 
-We will be using [Bayesil](http://cbw.bayesil.ca) for analysis of the NMR data.  The NMR data files are available [here](https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip).  The .zip folder contains 5 data sets.  Upload one of the datesets into Bayesil and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
+We will be using a special version of Bayesil for analysis of the NMR data.  Please use server and login information assigned to you. The NMR data files are available [here](https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_Data.zip).  The .zip folder contains 5 data sets.  Upload one of the datesets into Bayesil and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
 
 ### Bayesil
 
-[Bayesil](http://cbw.bayesil.ca) is a web-based tool for automated NMR spectral profiling that is very accurate (95%) and which uses probabilistic graphical models (PGM). It fits shift and peak intensity similar to the way humans perform fitting and pattern finding.  Bayesil requires priop knowledge of probable biofluid composition.  It has fully automated phasing, referencing, water removal, baseline correction, identification, and quantification.
+Bayesil is a web-based tool for automated NMR spectral profiling that is very accurate (95%) and which uses probabilistic graphical models (PGM). It fits shift and peak intensity similar to the way humans perform fitting and pattern finding.  Bayesil requires priop knowledge of probable biofluid composition.  It has fully automated phasing, referencing, water removal, baseline correction, identification, and quantification.
 
 <img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/bayesil1.png?raw=true" alt="img" width="750" /> 
 
@@ -60,11 +60,11 @@ The sample data is from a study comparing 20 individuals with Eosinophilic Esoph
 
 ### General Instructions
 
-We will be using the [GC-AutoFit website](http://cbw_gcautofit.wishartlab.com/) for analysis of our data.  The example data can be found [here](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing). Upload the files to GC-AutoFit and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
+We will be using the special server of GC-AutoFit created for this workshop. Please use the server assigned to you for analysis of our data.  The example data can be found [here](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing). Upload the files to GC-AutoFit and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
 
 ### GC-AutoFit (Automated GC-MS)  
 
-[GC-AutoFit website](http://cbw_gcautofit.wishartlab.com/) requires 3 spectra (sample, blank, and alkane standard).  It performs auto-alignment, peak ID, peak integration, and concentration calculation.  It accepts NetCDF and mzXML files.  It takes 60 seconds per spectrum with 40-115 compounds ID'd at 96% accuracy.  It is optimized for blood, urine, saliva, and cerbral spinal fluid.  It still requires careful sample preparation and derivatization.
+GC-AutoFit website requires 3 spectra (sample, blank, and alkane standard).  It performs auto-alignment, peak ID, peak integration, and concentration calculation.  It accepts NetCDF and mzXML files.  It takes 60 seconds per spectrum with 40-115 compounds ID'd at 96% accuracy.  It is optimized for blood, urine, saliva, and cerbral spinal fluid.  It still requires careful sample preparation and derivatization.
 
 <img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/gc1.png?raw=true" alt="img" width="750" /> 
 
