@@ -13,7 +13,7 @@ modified: June 12, 2020
 
 # Module 2 Lab: Metabolite Identification and Annotation
 
-In this lab, you will perform metabolite ID and/or quantification using NMR data and Bayesil; GC-MS data and GC-AutoFit; and LC-MS data and MetaboAnalyst/R.
+In this lab, you will perform metabolite ID and/or quantification using NMR data and Bayesil; GC-MS data and GC-AutoFit; and spectral processing of untargeted LC-MS data and MetaboAnalyst/R.
 
 ## NMR
 
