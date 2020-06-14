@@ -60,8 +60,9 @@ Coming soon!
   
   Access Module 2's [lab practical slides here.](https://drive.google.com/file/d/11yYJYGh1R4ti83Tw7vs0Q6zn42mygtD2/view?usp=sharing)   
   
-  Follow the [instructions for Module 2's lab here.](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)
+  Follow the [instructions for Module 2's lab here.](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)  
   
+Briefly, the lab will go over the following pre-processing workflows:  
  
 1. NMR and <a href="http://bayesil.ca/">Bayesil</a>.  
     
