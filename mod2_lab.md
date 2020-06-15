@@ -23,7 +23,7 @@ The sample data is from a study comparing healthy controls to endometrial cancer
 
 ### General Instructions
 
-We will be using a special version of Bayesil for analysis of the NMR data.  Please use server and login information assigned to you. The NMR data files are available [here](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/NMR_example.zip).  The .zip folder contains 2 spectra.  Upload one of the datesets into Bayesil and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
+We will be using a special version of Bayesil for analysis of the NMR data.  Please use server and login information assigned to you. A small NMR data set is available [here](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/CBW_NMR_Data.zip).  The .zip folder contains 2 spectra.  Upload the dateset into Bayesil and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
 
 ### Bayesil
 
@@ -39,7 +39,7 @@ Bayesil is a web-based tool for automated NMR spectral profiling that is very ac
 | Chemical Shift (CS) Reference | DSS |  
 | CS Reference Concentration | 833 um |  
 | NMR Frequency | 500 MHz |  
-| Compressed FIDS | One of: CBW_NMR_Set_1.zip, CBW_NMR_Set_2.zip, CBW_NMR_Set_3.zip, CBW_NMR_Set_4.zip, CBW_NMR_Set_5.zip |  
+| Compressed FIDS | CBW_NMR_Set.zip
 | Speed | Standard |  
 
 #### Bayesil Batch Results
