@@ -47,15 +47,15 @@ Coming soon!
 
   *<font color="#827e9c">David Wishart</font>*
   
-  Access Module 1's [lecture here.](https://drive.google.com/file/d/1-nQ3XOiYjzgnVE_lYna7PyrT8XFP8tW5/view?usp=sharing)  
+  Access Module 1's [lecture here.](https://drive.google.com/open?id=1XaP50oi_2fpA-cMWXnQRR-pKhmGSEWyi)  
   
 ##  Module 2: Metabolite Identification and Annotation 
 
   *<font color="#827e9c">David Wishart</font>*
   
-  Access Module 2's [lecture slides here.](https://drive.google.com/file/d/10deOQapniP4RVWKVbeFFIGMOmI0kT3vP/view?usp=sharing) 
+  Access Module 2's [lecture slides here.](https://drive.google.com/open?id=1mn7nzBH7Xmbh6N2kUy5k82_6p3QKDYWr) 
   
-  Access Module 2's [lab practical slides here.](https://drive.google.com/file/d/11yYJYGh1R4ti83Tw7vs0Q6zn42mygtD2/view?usp=sharing)   
+  Access Module 2's [lab practical slides here.](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)   
   
   Follow the [instructions for Module 2's lab here.](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)  
   
@@ -206,6 +206,6 @@ Access Module 6's [lecture here.](https://drive.google.com/file/d/1X_1c77pxAeDBo
   
 ***
 
-Thank you for attending the Informatics and Statistics for Metabolomics 2020 workshop! Help us make this workshop better by filling out [our survey]()  
+
 
 ***
