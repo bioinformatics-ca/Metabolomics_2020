@@ -153,7 +153,7 @@ This dataset was acquired using an UPLC-Q/E-ESI- in negative ionization mode. Th
   
  [Full Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)    
   
-*Larger example datasets (mzXML.zip files)* (Optional! Intended only for Monday's evening session)
+*Larger example datasets (mzXML.zip files) (Optional!! Intended only for Monday's evening session)*
 
 [Download example data here](https://drive.google.com/file/d/1VT1KOUMqvbS-To5qG0VPuUH2_4m3eNLN/view?usp=sharing) 
   
