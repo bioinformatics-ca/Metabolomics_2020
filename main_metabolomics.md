@@ -53,13 +53,13 @@ Coming soon!
 
   *<font color="#827e9c">David Wishart</font>*
   
-  Access Module 2's [lecture slides here.](https://drive.google.com/open?id=1mn7nzBH7Xmbh6N2kUy5k82_6p3QKDYWr) 
+  Access Module 2's lecture slides [here](https://drive.google.com/open?id=1mn7nzBH7Xmbh6N2kUy5k82_6p3QKDYWr) 
   ---- Updated slides [here](https://www.dropbox.com/s/opyz1mbanu5wl4t/CBW-Metabolomics2.1-2020_Final-June12.ppt?dl=0)
   
-  Access Module 2's [lab practical slides here.](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)
+  Access Module 2's lab practical slides [here](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)
   ---- Updated slides [here](https://www.dropbox.com/s/l5tswq1b4pxig37/CBW-Metabolomics2.1-lab-2020_Final-June12_Updated.pptx?dl=0)
   
-  Follow the [instructions for Module 2's lab here.](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)  
+  Follow the instructions for Module 2's lab [here](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)  
   
 Briefly, the lab will go over the following pre-processing workflows:  
  
@@ -76,27 +76,25 @@ Briefly, the lab will go over the following pre-processing workflows:
 
 **Example datasets (zipped files) for Lab2**
 
-<ul>
-<li><a href="https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip - a reduced data set to run during the lab</a></li>
-<li><a href="https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_set_of_8_spectra.zip">8-spectra dataset - optional, could be run after the lab</a></li> 
-<li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">Bayesil profiling results that could be used to generate input for Metaboanalyst</a></li>
-<li><a href=https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_full_dataset.zip">The 40-spectra dataset that were used to obtain the results above </a></li>
-</li>
-</ul>
+
+ - a reduced data set to run during the lab [CBW_NMR_Data.zip](https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_Data.zip)
+ - optional, could be run after the lab [8-spectra dataset](https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_set_of_8_spectra.zip)
+ - Bayesil profiling results that could be used to generate input for Metaboanalyst [CBW_NMR_result](https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip)
+ - The 40-spectra dataset that were used to obtain the results above [CBW_NMR_full](https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_full_dataset.zip)
 
 ##### GCMS (GC-Autofit):
 
-*Example datasets (mzXML.zip files)*
+**Example datasets (mzXML.zip files)**
 
 Download this file: [GC_autofit.zip](https://drive.google.com/a/bioinformatics.ca/file/d/1ZIPj5jVWYUG-LMB3-19Uy3EI9RLn_IDM/view?usp=sharing)  
 
 ##### LC-MS (MetaboAnalyst):
 
-*Example datasets (mzXML.zip files)*
+**Example datasets (mzXML.zip files)**
 
 Download this file: [ibd_data_cbw2020.zip](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/ibd_data_cbw2020.zip)  
 
-*Spectra processing with MetaboAnalyst (example result files)* 
+**Spectra processing with MetaboAnalyst (example result files)** 
 
 <ul>
 <li> <a href="https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_">Peak Table</a> </li>
@@ -128,7 +126,7 @@ Download this file: [ibd_data_cbw2020.zip](https://github.com/bioinformatics-ca/
 
 *<font color="#827e9c">David Wishart</font>*  
 
-Access Module 3's [lecture here.](https://drive.google.com/file/d/1D4aP4ZJtC05X6Bcmim2K9HrEYOnPO4C8/view)  
+Access Module 3's lecture [here](https://drive.google.com/file/d/1D4aP4ZJtC05X6Bcmim2K9HrEYOnPO4C8/view)  
 
 #### Links:
   
@@ -155,11 +153,11 @@ Access Module 3's [lecture here.](https://drive.google.com/file/d/1D4aP4ZJtC05X6
  
 This dataset was acquired using an UPLC-Q/E-ESI- in negative ionization mode. The 10 samples (per group) are a subset of a much larger study from [Lloyd-Price et al.](https://www.nature.com/articles/s41586-019-1237-9), and include fecal samples from patients with Crohn's Disease (CD, 4), healthy controls (4), and two quality controls. The [metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl) contains more sample information. Using the MetaboAnalyst [web service](https://dev.metaboanalyst.ca/) or [MetaboAnalystR](https://dev.metaboanalyst.ca/docs/RTutorial.xhtml), process one of the example datasets below.
   
- [Full Metadata](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)    
+ Full Metadata [here](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl)    
   
 *Larger example datasets (mzXML.zip files) (Optional!! Intended only for Monday's evening session)*
 
-[Download example data here](https://drive.google.com/file/d/1VT1KOUMqvbS-To5qG0VPuUH2_4m3eNLN/view?usp=sharing) 
+Download example data [here](https://drive.google.com/file/d/1VT1KOUMqvbS-To5qG0VPuUH2_4m3eNLN/view?usp=sharing) 
   
 Following spectra processing, use the [lab practical](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view) and follow Protocol 9 on the resulting peak table to gain functional insights from the untargeted metabolomics data.  
 
@@ -169,14 +167,14 @@ Following spectra processing, use the [lab practical](https://drive.google.com/f
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  Access Module 4's [lecture here.](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0)  
+  Access Module 4's lecture [here](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0)  
   
 
 ##  Module 5: MetaboAnalyst 
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  Access Module 5's [lecture here.](https://www.dropbox.com/s/st0cj934b23b2ea/CBW-Metabolomics5.1-2020_final_JX.ppt?dl=0) 
+  Access Module 5's lecture [here](https://www.dropbox.com/s/st0cj934b23b2ea/CBW-Metabolomics5.1-2020_final_JX.ppt?dl=0) 
     
   To understand how to use MetaboAnalyst, please follow the 11 protocols in this [lab practical.](https://drive.google.com/file/d/1BxbfJEbgqufhkBehBQgzwne3IryB9tbQ/view)  
   
@@ -202,7 +200,7 @@ Full peak intensity table of stool samples of CD (n = 266), UC (n = 144), and no
 
 *<font color="#827e9c">David Wishart</font>*
   
-Access Module 6's [lecture here.](https://drive.google.com/file/d/1X_1c77pxAeDBoguV_1qSOx4WBNII5E-y/view) 
+Access Module 6's lecture [here](https://drive.google.com/file/d/1X_1c77pxAeDBoguV_1qSOx4WBNII5E-y/view) 
   
 ***
 
