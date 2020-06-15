@@ -57,6 +57,7 @@ Coming soon!
   ---- Updated slides [here](https://www.dropbox.com/s/opyz1mbanu5wl4t/CBW-Metabolomics2.1-2020_Final-June12.ppt?dl=0)
  
  ##  Module 2 LAB: Metabolite Identification and Annotation 
+ 
   Access Module 2's lab practical slides [here](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)
   ---- Updated slides [here](https://www.dropbox.com/s/l5tswq1b4pxig37/CBW-Metabolomics2.1-lab-2020_Final-June12_Updated.pptx?dl=0)
   
