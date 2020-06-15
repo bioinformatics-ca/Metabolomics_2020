@@ -76,8 +76,10 @@ Briefly, the lab will go over the following pre-processing workflows:
 *Example datasets (zipped files)*
 
 <ul>
-<li><a href="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip - a reduced data set</a></li>
+<li><a href="https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip - a reduced data set to run during the lab</a></li>
+<li><a href="https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_set_of_8_spectra.zip">8-spectra dataset - optional, could be run after the lab</a></li> 
 <li><a href="https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip">CBW_NMR_result.zip</a></li>
+<li><a href=https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_full_dataset.zip">The 40-spectra dataset that were used to obtain the results above </a></li>
 </li>
 </ul>
 
