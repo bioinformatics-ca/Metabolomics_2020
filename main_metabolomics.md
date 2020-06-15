@@ -56,7 +56,8 @@ Coming soon!
   Access Module 2's [lecture slides here.](https://drive.google.com/open?id=1mn7nzBH7Xmbh6N2kUy5k82_6p3QKDYWr) 
   ---- Updated slides [here](https://www.dropbox.com/s/opyz1mbanu5wl4t/CBW-Metabolomics2.1-2020_Final-June12.ppt?dl=0)
   
-  Access Module 2's [lab practical slides here.](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)   
+  Access Module 2's [lab practical slides here.](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)
+  ---- Updated slides [here](https://www.dropbox.com/s/l5tswq1b4pxig37/CBW-Metabolomics2.1-lab-2020_Final-June12_Updated.pptx?dl=0)
   
   Follow the [instructions for Module 2's lab here.](https://bioinformaticsdotca.github.io/metabolomics_2020_mod2lab)  
   
