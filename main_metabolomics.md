@@ -54,6 +54,7 @@ Coming soon!
   *<font color="#827e9c">David Wishart</font>*
   
   Access Module 2's [lecture slides here.](https://drive.google.com/open?id=1mn7nzBH7Xmbh6N2kUy5k82_6p3QKDYWr) 
+  ---- Updated slides [here](https://www.dropbox.com/s/opyz1mbanu5wl4t/CBW-Metabolomics2.1-2020_Final-June12.ppt?dl=0)
   
   Access Module 2's [lab practical slides here.](https://drive.google.com/open?id=12k_Ub9Mtbp6RJB1aKCxOaMZzC2qG7JkG)   
   
