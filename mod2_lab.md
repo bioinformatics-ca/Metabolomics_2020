@@ -122,7 +122,7 @@ Results are reported as a table (csv format) for each sample and merged concentr
 
 ## LC-MS with MetaboAnalyst(R)
 
-<img src="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/Figure1_workflow.jpg" alt="img" width="750" /> 
+<img src="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/Figure1_workflow.jpg?" alt="img" width="750" /> 
 
 ### Example Data
 
