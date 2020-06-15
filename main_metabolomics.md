@@ -94,7 +94,7 @@ Download this file: [GC_autofit.zip](https://drive.google.com/a/bioinformatics.c
 
 **Example datasets (mzXML.zip files)**
 
-Download this file: [ibd_data_cbw2020.zip](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/ibd_data_cbw2020.zip)  
+Download this file: [ibd_data_cbw2020_updated.zip](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/ibd_data_cbw2020_updated.zip)
 
 **Spectra processing with MetaboAnalyst (example result files)** 
 
