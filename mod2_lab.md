@@ -137,7 +137,7 @@ This dataset was acquired using an UPLC-Q/E-ESI- in negative ionization mode. Th
 [Peak Table](https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_)  
 [Input for MS Peaks to Path](https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw)  
 
-* File conversion for vendor data*
+*File conversion for vendor data*
 Use [this tutorial](http://proteowizard.sourceforge.net/tools/filters.html) to understand how to use msConvert to convert your data to open formats.
 
 **NOTE: Do this section only if you are comfortable using R**
