@@ -23,7 +23,7 @@ The sample data is from a study comparing healthy controls to endometrial cancer
 
 ### General Instructions
 
-We will be using a special version of Bayesil for analysis of the NMR data.  Please use server and login information assigned to you. A small NMR data set is available [here](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/CBW_NMR_Data.zip).  The .zip folder contains 2 spectra.  Upload the dateset into Bayesil and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites.
+We will be using a special version of Bayesil for analysis of the NMR data.  Please use server and login information assigned to you. A small NMR data set is available [here](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/CBW_NMR_Data.zip).  The .zip folder contains 2 spectra.  Upload the dateset into Bayesil and run the server.  Save the results as an Excel file.  Examine the results by eye to find interesting differences.  Use HMDB to learn about the interesting metabolites. In additional we included two larger dataset that could be  optionally run after the lab. These datasets include a [8-spectra dataset] (https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/CBW_NMR_set_of_8_spectra.zip) and 40-spectra dataset (https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/CBW_NMR_full_dataset.zip), which was used to obtain [the uploaded NMR result](https://github.com/bioinformaticsdotca/Metabolomics_2017/raw/master/CBW_NMR_result.zip). 
 
 ### Bayesil
 
