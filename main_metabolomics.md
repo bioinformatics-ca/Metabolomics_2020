@@ -73,7 +73,7 @@ Briefly, the lab will go over the following pre-processing workflows:
 
 ##### NMR (Bayesil):
 
-*Example datasets (zipped files)*
+**Example datasets (zipped files) for Lab2**
 
 <ul>
 <li><a href="https://github.com/bioinformatics-ca/Metabolomics_2020/raw/master/CBW_NMR_Data.zip">CBW_NMR_Data.zip - a reduced data set to run during the lab</a></li>
