@@ -44,7 +44,8 @@ Bayesil is a web-based tool for automated NMR spectral profiling that is very ac
 
 #### Bayesil Batch Results
 
-<img src="https://github.com/bioinformaticsdotca/Metabolomics_2017/blob/master/mod2_pics/bayesil2.png?raw=true" alt="img" width="750" /> 
+"In order to collect profiling results, you need to go to each individual spectrum, click on the download drop down menu (please see the snapshot below) and select the option "Quantitatives CSV". You would need to combine them in a spreadsheet program (e.g. MS Excel) for further statistical analysis."
+
 
 
 #### Bayesil Spectrum Results
