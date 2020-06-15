@@ -190,8 +190,10 @@ Critical: Before uploading your data, perform a sanity check:
 * For details and screenshot instructions, [click here](http://www.metaboanalyst.ca/faces/docs/Format.xhtml)
 
 * [Data 1](https://www.metaboanalyst.ca/resources/data/human_cachexia.csv) Metabolomic concentration table of 77 urine samples from cancer patients and healthy controls. Can be used for Protocols 1-5.  
-* [Data 2](https://github.com/jsychong/MetaboAnalystR/blob/master/MetaboAnalystR_2_Supplementary_Data/iHMP2_48_metaboanalyst_input.csv) Peak intensity table of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls. Can be used for Protocols 1-3/
+* [Data 2](https://github.com/jsychong/MetaboAnalystR/blob/master/MetaboAnalystR_2_Supplementary_Data/iHMP2_48_metaboanalyst_input.csv) Peak intensity table of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls. Can be used for Protocols 1-3.
 * [Data 3](https://www.metaboanalyst.ca/resources/data/mummichog_ibd.txt) Peak list of 48 fecal samples from pediatric inflammatory bowel disease patients and healthy controls. Used for Protocol 9.
+* [Data 4](https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/ibd_peak_table.csv)
+Full peak intensity table of stool samples of CD (n = 266), UC (n = 144), and non-IBD (n = 135) obtained from [Lloyd-Price et al.](https://www.nature.com/articles/s41586-019-1237-9). [Full metadata here.](https://drive.google.com/open?id=1LK9zmXYoFG7DCPnptp3xAybUavmYqUkl) Can be used for Protocols 1-3.    
 
 
   
