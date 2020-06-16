@@ -170,7 +170,8 @@ Following spectra processing, use the [lab practical](https://drive.google.com/f
 
   *<font color="#827e9c">Jeff Xia</font>*
   
-  Access Module 4's lecture [here](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0)  
+  Access Module 4's lecture [here](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0) --- Updated slides [here](https://www.dropbox.com/s/6eopm1qd3yj5t9d/CBW-Metabolomics4.1-2020_final_JX.ppt?dl=0
+) 
   
 
 ##  Module 5: MetaboAnalyst 
