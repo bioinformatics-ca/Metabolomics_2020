@@ -98,11 +98,11 @@ Download this file: [ibd_data_cbw2020_updated.zip](https://github.com/bioinforma
 
 **Spectra processing with MetaboAnalyst (example result files)** 
 
-<ul>
-<li> <a href="https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_">Peak Table</a> </li>
-<li> <a href="https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw">Input for MS Peaks to Path</a> </li>
-<li> <a href="https://dev.metaboanalyst.ca/MetaboAnalyst/faces/Share?ID=_hkb08011a">Finished MetaboAnalyst spectral processing job</a> </li>
-</ul>  
+[- Peak Table](https://drive.google.com/open?id=10G4Vek0RAOR_Zb1CCGs9imFx1Beipvr_)
+
+[- Input for MS Peaks to Path](https://drive.google.com/open?id=1O6QCeBLJD8DWLuaDUnnVsLOyf8WwRlBw)
+
+[- Finished MetaboAnalyst spectral processing job](https://dev.metaboanalyst.ca/MetaboAnalyst/faces/Share?ID=_hkb08011a)  
 
 #### Links:
   
