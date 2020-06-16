@@ -17,7 +17,7 @@ length: 2 days
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io//metabolomics_2020_schedule)
 
-Meet your faculty! (comming soon)
+Meet your faculty! [here](https://drive.google.com/open?id=12M8Ao7TP9qbpnDIZgBVu8ZbMRVKfqJBG)
 
 ***
 
@@ -33,7 +33,8 @@ It is in your best interest to complete these before the workshop.
 
 # Class Photo
 
-Coming soon!  
+<img src="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/MetabolomicClass2020.jpg?raw=true" alt="Class Photo" width="750" />
+
 
 *** 
 
