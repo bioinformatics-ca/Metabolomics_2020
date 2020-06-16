@@ -33,7 +33,7 @@ It is in your best interest to complete these before the workshop.
 
 # Class Photo
 
-<img src="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/MetabolomicClass2020.jpg?raw=true" alt="Class Photo" width="750" />
+<img src="https://github.com/bioinformatics-ca/Metabolomics_2020/blob/master/Metabo_class_v2.png?raw=true" alt="Class Photo" width="750" />
 
 
 *** 
