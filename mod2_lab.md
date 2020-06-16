@@ -149,3 +149,7 @@ You will need to have R, MetaboAnalystR package dependencies, and MetaboAnalystR
 ### MetaboAnalystR 
 
 If you wish to use R instead of the MetaboAnalyst web-service for processing LC-MS spectra, please follow the MetaboAnalystR tutorial [here](https://dev.metaboanalyst.ca/docs/RTutorial.xhtml).
+
+#### Troubleshooting with Mac OS and MetaboAnalystR
+
+MetaboAnalystR 3.0 uses the Rccp R package as a dependency. Mac users may run into issues with getting this package installed. We suggest you follow these steps: https://thecoatlessprofessor.com/programming/cpp/r-compiler-tools-for-rcpp-on-macos/ to help with your installation.
